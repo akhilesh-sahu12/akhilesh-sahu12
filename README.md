@@ -1,7 +1,9 @@
 <div align="center"><h1> Hi, I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Akhilesh Sahu </h1> </div>
 
 # About Me
-I am currently working on MEAN Stack technology.
+I am a dedicated and innovative Java Developer with a strong focus on building impactful FinTech solutions. My journey in the technology industry has been marked by a series of rewarding experiences, including my work at the National Payments Corporation of India (NPCI), where I have contributed to key projects such as SettleNxt NFS, SettleNxt RUPAY, and iRGCS.
+
+I pride myself on my problem-solving abilities, which have been honed through tackling over 200+ competitive coding challenges. My technical expertise extends across Java programming, MySQL, Postgres, MongoDB, and the use of BIRT velocity tools for report design.
 
 
 # Tech Stack
